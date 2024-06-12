@@ -1,0 +1,29 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin player.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:player.png
+
+#begin coin.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:coin.png
+
+#begin score.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:score.png

@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/kelbas/SPRC/GameClient/Content/coin.png","/home/kelbas/SPRC/GameClient/Content/bin/DesktopGL/coin.xnb","TextureProcessor","Texture2DContent",1547,4181,0.0016424
+"/home/kelbas/SPRC/GameClient/Content/player.png","/home/kelbas/SPRC/GameClient/Content/bin/DesktopGL/player.xnb","TextureProcessor","Texture2DContent",3219,4181,0.15018
